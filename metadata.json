@@ -1,0 +1,7 @@
+{
+  "name": "E-Minutasi Digital Court",
+  "description": "A comprehensive cloud-ready web application for managing court case archives (E-Minutasi), featuring QR scanning, digital filing, and physical storage tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
